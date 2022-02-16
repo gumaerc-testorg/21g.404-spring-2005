@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Student prepared vocabulary list for class study.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-404-german-iv-spring-2005/274a970c80d5dbf9004c16bcb2c3d344_MIT21G_404S05_vokabellcarl.pdf
+file: /media/courses/21g-404-german-iv-spring-2005/274a970c80d5dbf9004c16bcb2c3d344_MIT21G_404S05_vokabellcarl.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Vokabelsaetze 21-25
 uid: 274a970c-80d5-dbf9-004c-16bcb2c3d344
