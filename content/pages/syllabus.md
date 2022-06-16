@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'The Syllabus contains the information about:  Lernziele, Aufgaben, Texte,
+  Empfohlen, Kurspaket, Nachschlagewerke, Erwerb neuen Vokabulars, Pr?fungen, Endnote,
+  and Ein Hinweis.'
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -25,7 +28,7 @@ Aufgaben
 _Lesen_:
 {{< tdclose >}}
 {{< tdopen >}}
-See [readings]({{< baseurl >}}/pages/readings) for material to be covered in class.
+See {{% resource_link 65f522c5-f20e-561f-0545-83de653a7784 "readings" %}} for material to be covered in class.
 {{< tdclose >}}
 
 {{< trclose >}}

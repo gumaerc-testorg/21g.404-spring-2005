@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Instructions for essay and other writing assignments with samples of
+  student work.  Student work appears courtesy of the students named and appears with
+  permission.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,8 +31,8 @@ Aufsatz 1
     
 *   Sample Student Work:  
     
-    Aufsatz 1 by Armando Valdes ([PDF]({{< baseurl >}}/resources/mit21g_404s05_aufsatz1arma))  
-    Aufsatz 1 by Serena Hu ([PDF]({{< baseurl >}}/resources/mit21g_404s05_aufsatz1sere))
+    Aufsatz 1 by Armando Valdes ({{% resource_link 81d018c4-3b0f-9045-8a76-8ae9450d4537 "PDF" %}})  
+    Aufsatz 1 by Serena Hu ({{% resource_link e2ef6a8b-aa2f-3974-c182-3cb78168712d "PDF" %}})
     
 
 Aufsatz 2
@@ -50,7 +53,7 @@ Aufsatz 2
     3.  Dr. B schreibt zehn Jahre später von Rio aus einen Brief an den Wiener Arzt, der damals seine Entlassung vom Krankenhaus ermöglicht hatte. Er erzählt dem Arzt im einzelnen, was er an Bord des Schiffes erlebt hat und wie er alles aus seiner jetztigen Sicht sieht und versteht.
 *   Sample Student Work:  
       
-    Aufsatz 2 by Carlos Renjifo ([PDF]({{< baseurl >}}/resources/mit21g_404s05_aufsatz2carl))
+    Aufsatz 2 by Carlos Renjifo ({{% resource_link bcd14e6e-16ea-0542-c7c6-8d6e33263ab3 "PDF" %}})
 
 Aufsatz 3
 
@@ -70,7 +73,7 @@ Aufsatz 3
     3.  Was nach Brecht ist die Verantwortung des Wissenschaftlers? Wählen Sie drei bis fünf (3-5) Sätze in _Leben des Galilei_ aus und erklären Sie, erstens, wie Sie jedes Zitat "lesen", zweitens, in welchem Zusammenhang die Zitate im Stück stehen. Geben Sie zum Schluß Ihre eigene Kritik. Beziehen Sie sich auf die Situation im Drama.
 *   Sample Student Work:  
       
-    Aufsatz 3 by Armando Valdes ([PDF]({{< baseurl >}}/resources/mit21g_404s05_aufsatz3arma))
+    Aufsatz 3 by Armando Valdes ({{% resource_link 9db7e817-7148-7118-ba36-ee5868a525f8 "PDF" %}})
 
 Aufsatz 4
 
@@ -92,53 +95,53 @@ Zu Ihrem Bericht sammeln Sie alle betreffenden Dokumente (Texte, Bilder, Videocl
 Aufsatzthemen
 -------------
 
-Interpretationsaufsatz ([PDF]({{< baseurl >}}/resources/mit21g_404s05_interpretati))
+Interpretationsaufsatz ({{% resource_link 3ea04269-9451-9593-ad35-377ca655f71c "PDF" %}})
 
-Korrekturzeichen ([PDF]({{< baseurl >}}/resources/mit21g_404s05_korrekturzei))
+Korrekturzeichen ({{% resource_link 01187459-03f9-bef5-5940-394c4b27f136 "PDF" %}})
 
 Grammatik
 ---------
 
-Infinitivkonstruktionen ([PDF]({{< baseurl >}}/resources/mit21g_404s05_infinitvkons))
+Infinitivkonstruktionen ({{% resource_link bfb3f3c9-6f08-07fa-9338-e010780704ca "PDF" %}})
 
-Passiv ([PDF]({{< baseurl >}}/resources/mit21g_404s05_passiv))
+Passiv ({{% resource_link 15c80814-9fda-ce7e-14d6-9ff87c318ca5 "PDF" %}})
 
-Wortstellung im Satz ([PDF]({{< baseurl >}}/resources/mit21g_404s05_wortstellung))
+Wortstellung im Satz ({{% resource_link 2df6b386-9d34-1047-a940-3c06af57d7f6 "PDF" %}})
 
-Expressing Time ([PDF]({{< baseurl >}}/resources/mit21g_404s05_expressingti))
+Expressing Time ({{% resource_link 201bd70a-9bf3-2853-fd9f-301c1d518231 "PDF" %}})
 
 Referat
 -------
 
-Redemittel ([PDF]({{< baseurl >}}/resources/mit21g_404s05_redemittelvo))
+Redemittel ({{% resource_link 0a8e2782-55e7-5c50-d88e-ed07dcf448c4 "PDF" %}})
 
-Arbeitsschritte ([PDF]({{< baseurl >}}/resources/mit21g_404s05_referatarbei))
+Arbeitsschritte ({{% resource_link 3dac0063-76c5-f85e-0292-0cad48b11a1a "PDF" %}})
 
 Texte
 -----
 
-Texte besprechen ([PDF]({{< baseurl >}}/resources/mit21g_404s05_textebesprec))
+Texte besprechen ({{% resource_link 2c6adccc-f10c-ad19-bca2-ee814f435b4a "PDF" %}})
 
 Inhaltsangabe leicht verändert aus: Helmut Hohmann: _Schreiben und Überzeugen_, München 1983
 
-Formen des Theaters ([PDF]({{< baseurl >}}/resources/mit21g_404s05_formentheate))
+Formen des Theaters ({{% resource_link 8c425022-ef72-7666-e6ec-0918b89c80fd "PDF" %}})
 
-Video zu Bertolt Brecht ([PDF]({{< baseurl >}}/resources/mit21g_404s05_videobrecht))
+Video zu Bertolt Brecht ({{% resource_link 2eea5263-27c7-d02e-1688-f01db17b3c91 "PDF" %}})
 
-Inszenierung des Berliner Ensembles ([PDF]({{< baseurl >}}/resources/mit21g_404s05_videoberline))
+Inszenierung des Berliner Ensembles ({{% resource_link 73ee0343-3bac-300d-d04f-bc085be5a380 "PDF" %}})
 
 Vokabellisten
 -------------
 
-Vokabelarbeit ([PDF]({{< baseurl >}}/resources/mit21g_404s05_vokabelarbei))
+Vokabelarbeit ({{% resource_link fa50b6c0-a21b-dcda-3f5d-22c338e91c4e "PDF" %}})
 
-Sample Student Vocabulary List, by Carlos Renjifo ([PDF]({{< baseurl >}}/resources/mit21g_404s05_vokabelliste))
+Sample Student Vocabulary List, by Carlos Renjifo ({{% resource_link eb7707a0-2b3a-62e9-046d-a15600f04cfd "PDF" %}})
 
 Zeitungen
 ---------
 
-Arbeit mit Zeitungen ([PDF]({{< baseurl >}}/resources/mit21g_404s05_arbeitzeitun))
+Arbeit mit Zeitungen ({{% resource_link 8f3777cd-c04b-0dfa-b834-859b158d01b5 "PDF" %}})
 
-Gruppenarbeit zu Nachrichten ([PDF]({{< baseurl >}}/resources/mit21g_404s05_gruppenarbei))
+Gruppenarbeit zu Nachrichten ({{% resource_link 8e35a5f1-24c5-77a9-5524-493b9bb777fb "PDF" %}})
 
-Tagesgeschehen ([PDF]({{< baseurl >}}/resources/mit21g_404s05_tagesgescheh))
+Tagesgeschehen ({{% resource_link 4c5447e6-22f8-92c8-06d1-8b4a80a048a0 "PDF" %}})

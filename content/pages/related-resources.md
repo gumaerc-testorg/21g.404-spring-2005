@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Links page. News and media resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

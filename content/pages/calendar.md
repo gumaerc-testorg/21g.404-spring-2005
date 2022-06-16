@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Calendar contains the list of topics covered during the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
