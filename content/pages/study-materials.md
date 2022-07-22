@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains links to websites with material related to the
+  course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 1dd4eef7-8cc6-0a66-b758-3db53cc85c8f
 ---
