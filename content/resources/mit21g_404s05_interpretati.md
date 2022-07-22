@@ -6,6 +6,7 @@ file: /courses/21g-404-german-iv-spring-2005/3ea0426994519593ad35377ca655f71c_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Der Interpretationsaufsatz
 uid: 3ea04269-9451-9593-ad35-377ca655f71c
 ---
 Notes on writing about a text, including grammatical and rhetorical constructions, and notes on audience.
-

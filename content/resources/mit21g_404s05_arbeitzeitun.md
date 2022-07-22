@@ -5,6 +5,7 @@ file: /courses/21g-404-german-iv-spring-2005/8f3777cdc04b0dfab834859b158d01b5_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Arbeit mit Zeitungen
 uid: 8f3777cd-c04b-0dfa-b834-859b158d01b5
 ---
 Instructions for group assignment on newspapers and magazines.
-

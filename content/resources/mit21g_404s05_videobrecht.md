@@ -6,6 +6,7 @@ file: /courses/21g-404-german-iv-spring-2005/2eea526327c7d02e1688f01db17b3c91_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Brecht Film-Arbeitsblatt
 uid: 2eea5263-27c7-d02e-1688-f01db17b3c91
 ---
 Worksheet with discussion questions based on a video on the life of Bertolt Brecht. 
-

@@ -5,6 +5,7 @@ file: /courses/21g-404-german-iv-spring-2005/bfb3f3c96f0807fa9338e010780704ca_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Infinitivkonstruktionen
 uid: bfb3f3c9-6f08-07fa-9338-e010780704ca
 ---
 Exercises dealing with the infinitive.
-

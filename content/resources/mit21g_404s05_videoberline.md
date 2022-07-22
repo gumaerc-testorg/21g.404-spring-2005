@@ -5,6 +5,7 @@ file: /courses/21g-404-german-iv-spring-2005/73ee03433bac300dd04fbc085be5a380_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Video - Berliner Ensemble '
 uid: 73ee0343-3bac-300d-d04f-bc085be5a380
 ---
 Worksheet based on the video screening of Bertolt Brecht's "Life of Galileo".
-

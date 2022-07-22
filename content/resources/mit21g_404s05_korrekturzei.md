@@ -6,6 +6,7 @@ file: /courses/21g-404-german-iv-spring-2005/0118745903f9bef55940394c4b27f136_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Korrekturzeichen
 uid: 01187459-03f9-bef5-5940-394c4b27f136
 ---
 Guide to the correction markings made by the professor on course writing assignments.
-

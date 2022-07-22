@@ -5,6 +5,7 @@ file: /courses/21g-404-german-iv-spring-2005/334f87bf544ea5291125d45ff6fdd7af_MI
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Vokabeltest -sample
 uid: 334f87bf-544e-a529-1125-d45ff6fdd7af
 ---
 Sample vocabulary test.
-

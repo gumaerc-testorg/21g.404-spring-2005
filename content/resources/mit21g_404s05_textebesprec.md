@@ -5,6 +5,7 @@ file: /courses/21g-404-german-iv-spring-2005/2c6adcccf10cad19bca2ee814f435b4a_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "\xDCber einen Text sprechen"
 uid: 2c6adccc-f10c-ad19-bca2-ee814f435b4a
 ---
 A list of words and phrases for speaking about a text.
-

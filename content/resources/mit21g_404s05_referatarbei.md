@@ -5,6 +5,7 @@ file: /courses/21g-404-german-iv-spring-2005/3dac006376c5f85e02920cad48b11a1a_MI
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Referat - Arbeitschritte
 uid: 3dac0063-76c5-f85e-0292-0cad48b11a1a
 ---
 Notes on written work and preparation for an oral presentation.
-
