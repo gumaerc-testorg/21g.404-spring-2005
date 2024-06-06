@@ -2,6 +2,7 @@
 content_type: resource
 description: List of phrases for use in an oral presentation.
 file: /courses/21g-404-german-iv-spring-2005/0a8e278255e75c50d88eed07dcf448c4_MIT21G_404S05_redemittelvo.pdf
+file_size: 76723
 file_type: application/pdf
 learning_resource_types:
 - Assignments

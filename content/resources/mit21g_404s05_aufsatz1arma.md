@@ -2,6 +2,7 @@
 content_type: resource
 description: Aufsatz 1 by Armando Valdes. Student composition on the Berlin Wall.
 file: /courses/21g-404-german-iv-spring-2005/81d018c43b0f90458a768ae9450d4537_MIT21G_404S05_aufsatz1arma.pdf
+file_size: 521191
 file_type: application/pdf
 learning_resource_types:
 - Assignments
