@@ -3,6 +3,7 @@ content_type: resource
 description: This handout contains notes contrasting Aristotelian and Epic theater.
   It is to be used as a reference for a course writing assignment.
 file: /courses/21g-404-german-iv-spring-2005/8c425022ef727666e6ec0918b89c80fd_MIT21G_404S05_formentheate.pdf
+file_size: 529072
 file_type: application/pdf
 learning_resource_types:
 - Assignments

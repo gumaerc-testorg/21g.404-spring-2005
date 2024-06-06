@@ -2,6 +2,7 @@
 content_type: resource
 description: Student composition on Zweig's "The Royal Game" (aka "A Game of Chess").
 file: /courses/21g-404-german-iv-spring-2005/bcd14e6e16ea0542c7c68d6e33263ab3_MIT21G_404S05_aufsatz2carl.pdf
+file_size: 524419
 file_type: application/pdf
 learning_resource_types:
 - Assignments
