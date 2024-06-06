@@ -2,6 +2,7 @@
 content_type: resource
 description: Exercises dealing with the infinitive.
 file: /courses/21g-404-german-iv-spring-2005/bfb3f3c96f0807fa9338e010780704ca_MIT21G_404S05_infinitvkons.pdf
+file_size: 73400
 file_type: application/pdf
 learning_resource_types:
 - Assignments
