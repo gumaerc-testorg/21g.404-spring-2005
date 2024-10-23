@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Student prepared vocabulary list for class study.
-file: /courses/21g-404-german-iv-spring-2005/274a970c80d5dbf9004c16bcb2c3d344_MIT21G_404S05_vokabellcarl.pdf
+file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/274a970c80d5dbf9004c16bcb2c3d344_MIT21G_404S05_vokabellcarl.pdf
 file_size: 82880
 file_type: application/pdf
 learning_resource_types:

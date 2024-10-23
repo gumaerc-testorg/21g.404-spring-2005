@@ -2,7 +2,7 @@
 content_type: resource
 description: Notes on writing about a text, including grammatical and rhetorical constructions,
   and notes on audience.
-file: /courses/21g-404-german-iv-spring-2005/3ea0426994519593ad35377ca655f71c_MIT21G_404S05_interpretati.pdf
+file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/3ea0426994519593ad35377ca655f71c_MIT21G_404S05_interpretati.pdf
 file_size: 531901
 file_type: application/pdf
 learning_resource_types:
