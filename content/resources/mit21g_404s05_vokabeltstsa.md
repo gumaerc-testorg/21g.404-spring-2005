@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample vocabulary test.
-file: /courses/21g-404-german-iv-spring-2005/334f87bf544ea5291125d45ff6fdd7af_MIT21G_404S05_vokabeltstsa.pdf
+file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/334f87bf544ea5291125d45ff6fdd7af_MIT21G_404S05_vokabeltstsa.pdf
 file_size: 70434
 file_type: application/pdf
 learning_resource_types:

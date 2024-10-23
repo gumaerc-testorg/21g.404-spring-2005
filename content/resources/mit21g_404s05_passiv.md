@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Worksheet on the passive voice.
-file: /courses/21g-404-german-iv-spring-2005/15c808149fdace7e14d69ff87c318ca5_MIT21G_404S05_passiv.pdf
+file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/15c808149fdace7e14d69ff87c318ca5_MIT21G_404S05_passiv.pdf
 file_size: 70384
 file_type: application/pdf
 learning_resource_types:
