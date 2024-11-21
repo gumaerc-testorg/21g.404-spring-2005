@@ -1,14 +1,13 @@
 ---
 content_type: page
 description: Links page. News and media resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: d32daad4-6e15-e064-ae52-9382a4f5e81e
 ---
-
-Nachrichten
------------
+## Nachrichten
 
 ### Fernsehen
 
@@ -36,8 +35,7 @@ Nachrichten
 
 [APA Austria Presse Agentur](http://www.apa.co.at/)
 
-Zeitungen/Zeitschriften
------------------------
+## Zeitungen/Zeitschriften
 
 ### Überregionale Tageszeitungen
 
@@ -131,13 +129,13 @@ Deutschland:
 
 [Der Spiegel](http://www.spiegel.de/)
 
-[Focus](http://focus.msn.de/)
+[Focus](https://www.focus.de/)
 
 [Die Zeit](http://www.zeit.de/)
 
 [DM](http://www.finanzen.net/)
 
-[Bunte](http://www.bunte.t-online.de/)
+[Bunte](https://www.bunte.de/)
 
 [Bild der Wissenschaft](http://www.wissenschaft.de/)
 
@@ -151,8 +149,7 @@ Schweiz
 
 [Die Weltwoche](http://www.weltwoche.ch/)
 
-Radio & Fernsehen
------------------
+## Radio & Fernsehen
 
 ### Fernsehen
 
@@ -160,7 +157,7 @@ Deutschland:
 
 [Das Erste ARD](http://www.ard.de/) (Arbeitsgemeinschaft der Rundfunkanstalten Deutschlands)
 
-[Das Zweite (ZDF)](http://www.das-zweite.de/) (Videotext von ARD und ZDF)
+[Das Zweite (ZDF)](https://www.zdf.de/) (Videotext von ARD und ZDF)
 
 Norddeutscher Rundfunk (NDR)
 
