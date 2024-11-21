@@ -2,14 +2,13 @@
 content_type: page
 description: This section contains links to websites with material related to the
   course.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 1dd4eef7-8cc6-0a66-b758-3db53cc85c8f
 ---
-
-Siegfried Lenz
---------------
+## Siegfried Lenz
 
 [Leben und Werk](http://de.wikipedia.org/wiki/Siegfried_Lenz)
 
@@ -21,8 +20,7 @@ Kisch: [Zeittafel](http://www.dhm.de/lemo/html/biografien/KischEgon/) / [Leben u
 
 "Pressetour ins Land des Terrors" Süddeutsche Zeitung ([PDF](http://web.mit.edu/21f.404/www/Pressetour_Seite.pdf))
 
-Monika Maron
-------------
+## Monika Maron
 
 [Monika Maron - Animal triste (1999)](http://www.dieterwunderlich.de/Maron_animal.htm)
 
@@ -32,8 +30,7 @@ Monika Maron
 
 [Stadt im Wandel](http://www.spiegel.de/politik/deutschland/0,1518,704956,00.html) (historische Rückblicke von Berlin) / [Berliner Karte 1961](http://www.berlinermaueronline.de/)
 
-Stefan Zweig
-------------
+## Stefan Zweig
 
 [Zeittafel](http://www.dhm.de/lemo/html/biografien/ZweigStefan/) / [Leben in Salzburg](http://www.salzburg.info/de/)
 
@@ -41,8 +38,7 @@ Stefan Zweig
 
 [Biographie](http://www.cyranos.ch/litzwe-d.htm)
 
-Schachnovelle
--------------
+## Schachnovelle
 
 [Hamburger Gymnasium Projekt](http://www.uni-protokolle.de/nachrichten/id/122948/)
 
@@ -52,8 +48,7 @@ Schachnovelle
 
 [Österreich (1933-45)](http://de.wikipedia.org/wiki/Geschichte)
 
-Bertolt Brecht
---------------
+## Bertolt Brecht
 
 Zeittafel
 
@@ -61,8 +56,7 @@ Zeittafel
 
 [Zur Biographie](https://www.dhm.de/lemo/biografie/bertolt-brecht)
 
-Leben des Galilei
------------------
+## Leben des Galilei
 
 [The Galileo Project](http://galileo.rice.edu/) (Rice University)
 
@@ -70,8 +64,7 @@ Leben des Galilei
 
 [Ansprache von Papst Johannes Paul II. über Galileo Galilei](http://www.stjosef.at/index.htm?dokumente/papst_galilei.htm~mainFrame)
 
-Zu "Berliner sehen": Zusätzliche Links
---------------------------------------
+## Zu "Berliner sehen": Zusätzliche Links
 
 [Berlin Babylon](http://www.berlinbabylon.de/)
 
@@ -89,7 +82,7 @@ Verkauf von Häusern am Klausenerplatz
 
 Heinrich Zille
 
-_Schloss Charlottenburg - Panorama/Stadtplan_
+*Schloss Charlottenburg - Panorama/Stadtplan*
 
 [Klausenerplatz - Bündnis90/Grünen](http://www.gruene-berlin.de/charlottenburg-wilmersdorf/html/presse/archiv_c/pm99_02.htm)
 
@@ -139,7 +132,7 @@ Hausbesetzer und Ziegengruppe
 
 [Die Berliner Mauer](http://www.die-berliner-mauer.de/)
 
-[Stadtschloss Berlin Initiative](http://www.stadtschloss-berlin.de/)
+[Stadtschloss Berlin](https://en.wikipedia.org/wiki/Berlin_Palace)
 
 [Geschichte Berlins in Bildern](http://www.chronik-berlin.de/)
 
