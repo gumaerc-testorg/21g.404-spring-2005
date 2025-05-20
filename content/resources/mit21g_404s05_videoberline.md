@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Worksheet based on the video screening of Bertolt Brecht's "Life of Galileo".
-file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/73ee03433bac300dd04fbc085be5a380_MIT21G_404S05_videoberline.pdf
+file: /courses/21g-404-german-iv-spring-2005/73ee03433bac300dd04fbc085be5a380_MIT21G_404S05_videoberline.pdf
 file_size: 78076
 file_type: application/pdf
 learning_resource_types:

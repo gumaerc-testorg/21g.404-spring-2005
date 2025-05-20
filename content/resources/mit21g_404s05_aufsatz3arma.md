@@ -2,7 +2,7 @@
 content_type: resource
 description: Aufsatz 3 by Armando Valdes. Student composition on the responsibility
   of scientists as found in Brecht's "Life of Galileo".
-file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/9db7e81771487118ba36ee5868a525f8_MIT21G_404S05_aufsatz3arma.pdf
+file: /courses/21g-404-german-iv-spring-2005/9db7e81771487118ba36ee5868a525f8_MIT21G_404S05_aufsatz3arma.pdf
 file_size: 596408
 file_type: application/pdf
 learning_resource_types:
