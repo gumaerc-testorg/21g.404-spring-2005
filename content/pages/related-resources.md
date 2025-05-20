@@ -33,7 +33,7 @@ uid: d32daad4-6e15-e064-ae52-9382a4f5e81e
 
 [Agence France-Presse](http://www.afp.com/deutsch/home/)
 
-[APA Austria Presse Agentur](http://www.apa.co.at/)
+[APA Austria Presse Agentur](https://apa.at/)
 
 ## Zeitungen/Zeitschriften
 
@@ -89,7 +89,7 @@ Berliner Abendblatt
 
 [Main Post](http://www.mainpost.de/)
 
-[Neue Westfälische Zeitung](http://www.wnonline.de/)
+[Neue Westfälische Zeitung](https://www.nw.de/)
 
 Nordwest Presse
 
@@ -115,7 +115,7 @@ Schweiz:
 
 [Freiburger Nachrichten](http://www.freiburger-nachrichten.ch/)
 
-[Liechtensteiner Volksblatt](http://www.volksblatt.li/)
+[Liechtensteiner Volksblatt](https://en.wikipedia.org/wiki/Liechtensteiner_Volksblatt)
 
 [Schaffhauser Nachrichten](http://www.shn.ch/)
 

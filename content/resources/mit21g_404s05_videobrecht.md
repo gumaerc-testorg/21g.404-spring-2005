@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Worksheet with discussion questions based on a video on the life of
   Bertolt Brecht. '
-file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/2eea526327c7d02e1688f01db17b3c91_MIT21G_404S05_videobrecht.pdf
+file: /courses/21g-404-german-iv-spring-2005/2eea526327c7d02e1688f01db17b3c91_MIT21G_404S05_videobrecht.pdf
 file_size: 71458
 file_type: application/pdf
 learning_resource_types:

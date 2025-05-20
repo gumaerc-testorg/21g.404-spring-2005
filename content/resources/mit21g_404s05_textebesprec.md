@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A list of words and phrases for speaking about a text.
-file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/2c6adcccf10cad19bca2ee814f435b4a_MIT21G_404S05_textebesprec.pdf
+file: /courses/21g-404-german-iv-spring-2005/2c6adcccf10cad19bca2ee814f435b4a_MIT21G_404S05_textebesprec.pdf
 file_size: 68506
 file_type: application/pdf
 learning_resource_types:
