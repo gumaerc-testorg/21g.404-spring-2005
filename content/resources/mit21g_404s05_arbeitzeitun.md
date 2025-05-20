@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for group assignment on newspapers and magazines.
-file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/8f3777cdc04b0dfab834859b158d01b5_MIT21G_404S05_arbeitzeitun.pdf
+file: /courses/21g-404-german-iv-spring-2005/8f3777cdc04b0dfab834859b158d01b5_MIT21G_404S05_arbeitzeitun.pdf
 file_size: 80937
 file_type: application/pdf
 learning_resource_types:
