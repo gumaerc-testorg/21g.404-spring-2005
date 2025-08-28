@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes on German syntax to be used as a reference when doing course assignments.
-file: /courses/21g-404-german-iv-spring-2005/2df6b3869d341047a9403c06af57d7f6_MIT21G_404S05_wortstellung.pdf
+file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/2df6b3869d341047a9403c06af57d7f6_MIT21G_404S05_wortstellung.pdf
 file_size: 102857
 file_type: application/pdf
 learning_resource_types:
