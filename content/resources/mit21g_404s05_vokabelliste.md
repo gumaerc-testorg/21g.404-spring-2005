@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sample Student Vocabulary List, by Carlos Renjifo.
-file: /courses/21g-404-german-iv-spring-2005/eb7707a02b3a62e9046da15600f04cfd_MIT21G_404S05_vokabelliste.pdf
+file: /ol-ocw-studio-app/courses/21g-404-german-iv-spring-2005/eb7707a02b3a62e9046da15600f04cfd_MIT21G_404S05_vokabelliste.pdf
 file_size: 128933
 file_type: application/pdf
 learning_resource_types:
