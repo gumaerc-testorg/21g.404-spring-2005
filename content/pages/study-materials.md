@@ -134,6 +134,6 @@ Hausbesetzer und Ziegengruppe
 
 [Stadtschloss Berlin](https://en.wikipedia.org/wiki/Berlin_Palace)
 
-[Geschichte Berlins in Bildern](http://www.chronik-berlin.de/)
+Geschichte Berlins in Bildern
 
 [Berlin Mitte. Erkunden eines Stadtumbaus](http://www.uinic.de/berlin-mitte/)
